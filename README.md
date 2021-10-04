@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi! 👋🏽 My name is Marcia </h1>
 
-- I'm an engineer interested in education 👩🏻‍🏫 computing 💻 and emerging technologies 📱🔐📡🎆
+- I'm an engineer interested in computing 💻 education 👩🏻‍🏫 and emerging technologies 📱🔐📡🎆
 
 
 ## You can reach me at: 
